@@ -10,8 +10,8 @@
 ### BIO:
 
 Husband, Father, Community Geek.  
-I am a co-leader of both the [@ATXPowerShell](https://twitter.com/ATXPowerShell) and [@AustinVMUG](https://twitter.com/AustinVMUG) user groups in Texas and a member of the [@vBrownBag](https://twitter.com/vbrownbag) crew.  
-Currently a Solutions Architect for Veeam, focused on automation & integration.  
-I spend most of my time working within the homelab, when not being active in planning or hosting community events.  
+I am a co-leader of the [@ATXPowerShell](https://twitter.com/ATXPowerShell), [@AustinVMUG](https://twitter.com/AustinVMUG) and [@DenverVMUG](https://twitter.com/DenverVMUG) user groups, and a member of the [@vBrownBag](https://twitter.com/vbrownbag) crew.  
+Currently a Senior Solutions Architect for Pure Storage, working on FlashStack, and focused on automating all the things.  
+I spend most of my time working within the lab, when not being active in planning or hosting community events.  
 
 For more ramblings, check out the [blog](https://www.fullstackgeek.net/).  
