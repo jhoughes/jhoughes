@@ -1,4 +1,4 @@
-### Howdy y'all 👋 🧡 💚 💙
+### Howdy y'all 👋 :orange_heart: :green_heart: :blue_heart:
  
 
 - 🔭 I’m currently working on PowerShell automation, Terraform, Rancher and Kubernetes
